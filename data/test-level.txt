@@ -1,0 +1,9 @@
+Test Level
+Test_Hint?!
+4 500 500
+Hero 50 50 0
+Town 450 450 0
+Fire 150 400 0
+Wolf 200 320 0
+1
+Fire

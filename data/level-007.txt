@@ -1,0 +1,17 @@
+Level 7
+
+12 700 500
+Hero  50  50 0
+Fire  50 250 0
+Fire  50 450 0
+Fire 250  50 0
+Fire 250 250 0
+Fire 250 450 0
+Fire 450  50 0
+Fire 450 250 0
+Fire 450 450 0
+Fire 650  50 0
+Fire 650 250 0
+Town 650 450 0
+1
+Fire

@@ -1,0 +1,6 @@
+Tutorial 1
+Dasha must come to town safe and sound. Press Enter to start.
+2 700 500
+Hero 250 250 0
+Town 450 250 0
+0

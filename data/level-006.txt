@@ -1,0 +1,11 @@
+Level 6
+
+5 700 500
+Hero  50  50 0
+Town 650 450 0
+Wolf 450 150 0
+Wolf 350 250 0
+Wolf 250 350 0
+2
+Fire
+Fire

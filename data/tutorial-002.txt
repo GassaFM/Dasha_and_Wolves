@@ -1,0 +1,8 @@
+Tutorial 2
+Dasha always moves to the closest unvisited light.
+4 700 500
+Hero 250 150 0
+Town 450 350 0
+Fire 400 185 0
+Fire 325 324 0
+0

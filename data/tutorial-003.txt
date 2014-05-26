@@ -1,0 +1,8 @@
+Tutorial 3
+Wolves attack Dasha but fear light.
+4 700 500
+Hero 250 150 0
+Town 450 350 0
+Wolf 375 225 0
+Fire 310 305 0
+0

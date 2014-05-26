@@ -1,0 +1,9 @@
+Level 2
+
+3 700 500
+Hero  50 250 0
+Town 650 250 0
+Wolf 350 250 0
+2
+Fire
+Fire

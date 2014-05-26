@@ -1,0 +1,8 @@
+Tutorial 4
+Place the fire from below and help Dasha reach the town!
+3 700 500
+Hero 250 150 0
+Town 450 350 0
+Wolf 375 225 0
+1
+Fire

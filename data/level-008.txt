@@ -1,0 +1,18 @@
+Level 8
+
+12 700 500
+Hero  50  50 0
+Fire  50 450 0
+Fire 350  50 0
+Fire 350 450 0
+Fire 650  50 0
+Town 650 450 0
+Wolf 123 334 0
+Wolf 385 274 0
+Wolf 109 412 0
+Wolf 521 138 0
+Wolf 421 331 0
+Wolf 291  99 0
+2
+Fire
+Fire
